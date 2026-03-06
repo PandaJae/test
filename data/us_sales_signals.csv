@@ -1,0 +1,4 @@
+source,seller_name,brand_or_mark,url,confidence
+Amazon,Shenzhen Alpha Trading Co.,AlphaStar,https://www.amazon.com/sp?seller=A1TEST,0.9
+Shopify,Guangzhou Beta Home Ltd.,BetaHome,https://betahome.example.com,0.8
+Walmart,Unrelated Seller,RandomBrand,https://www.walmart.com,0.6

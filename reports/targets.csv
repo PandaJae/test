@@ -1,0 +1,3 @@
+registration_number,serial_number,mark_text,owner_name,owner_country,registration_date,declaration_window,years_since_registration,sales_match,matched_source,matched_seller,matched_brand,matched_url,match_score
+6100001,88000001,ALPHA STAR,Shenzhen Alpha Trading Co.,CN,2020-05-01,year_5_6,5.85,yes,Amazon,Shenzhen Alpha Trading Co.,AlphaStar,https://www.amazon.com/sp?seller=A1TEST,0.900
+6200002,88000002,BETA HOME,Guangzhou Beta Home Ltd.,China,2017-11-15,year_8_9,8.30,yes,Shopify,Guangzhou Beta Home Ltd.,BetaHome,https://betahome.example.com,0.800
